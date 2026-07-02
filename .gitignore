@@ -1,0 +1,32 @@
+# ROS
+build/
+devel/
+install/
+log/
+.catkin_tools/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# ROS Bags
+*.bag
+*.db3
+
+# Images & Videos
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# Photos
+piper_photos/
+
+# Linux
+.DS_Store
+Thumbs.db
